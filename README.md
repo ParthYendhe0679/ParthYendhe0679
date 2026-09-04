@@ -82,21 +82,7 @@ architecture**.
 
 ---
 
-## 🚀 What I Build
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack-Web%20Applications-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/AI-Powered%20Applications-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-Intelligent%20Systems-6f42c1?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-APIs-green?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database--Driven-Applications-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data-Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-
----
 
 ## 📚 Currently Learning
 
@@ -106,46 +92,3 @@ architecture**.
 - ⚙️ Backend Architecture
 - 🏗️ System Design
 - 📈 Scalable Full-Stack Applications
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParthYendhe0679&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthYendhe0679&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ParthYendhe0679&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-> 🚧 My best Full-Stack, AI/ML and RAG projects will be showcased here.
-
----
-
-## 🎯 My Focus
-
-```text
-Full-Stack Development
-        ↓
-Backend & APIs
-        ↓
-Databases & Data
-        ↓
-AI / ML
-        ↓
-RAG & LLM Applications
-        ↓
-Scalable Intelligent Systems
