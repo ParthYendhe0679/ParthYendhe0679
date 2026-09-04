@@ -67,36 +67,8 @@ development, AI engineering and scalable application design.
 
 ---
 
-## 🚀 What I Build
 
-- Full-stack web applications
-- AI-powered applications
-- RAG-based systems
-- Data-driven applications
-- Backend APIs
-- Database-driven systems
-- Automation and productivity tools
 
----
-
-## 📌 Featured Projects
-
-### 🔹 Project 1
-Short description of what the project does.
-
-**Tech:** React • Node.js • MongoDB • AI
-
-### 🔹 Project 2
-Short description of what the project does.
-
-**Tech:** Python • AI/ML • PostgreSQL
-
-### 🔹 Project 3
-Short description of what the project does.
-
-**Tech:** Java • SQL
-
----
 
 ## 📚 Currently Learning
 
@@ -109,22 +81,9 @@ Short description of what the project does.
 
 ---
 
-## 🎯 Goals
-
-- Build impactful real-world applications
-- Become a strong Full-Stack Developer
-- Develop expertise in AI Engineering
-- Contribute to open-source projects
-- Continuously improve my problem-solving skills
-
----
-
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: [Your LinkedIn]
-- 📧 Email: [Your Email]
-- 🐙 GitHub: [Your GitHub]
-
----
+- 💼 LinkedIn:- linkedin.com/in/parth-yendhe-9352603b1
+- 📧 Email:- yendheparth081@gmail.com
 
 ⭐ Feel free to explore my repositories and projects!
