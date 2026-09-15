@@ -130,20 +130,6 @@ DSA                  █████████████░░░░░░�
 
 
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ParthYendhe0679&theme=github_dark" width="100%"/>
-
-</div>
-
-> The contribution section is kept full-width so the activity timeline has no unnecessary side gaps.
-
----
-
-
-
 # 🤝 Let's Connect
 
 <div align="center">
