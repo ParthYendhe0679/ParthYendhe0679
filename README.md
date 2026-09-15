@@ -12,8 +12,14 @@
 </a>
 
 </div>
+<br/><br/>
 
----
+<h1>Hi, I'm Parth Yendhe 👋</h1>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=900&height=55&lines=Backend+Developer+%7C+AI%2FML+Enthusiast;Full-Stack+Developer+%7C+Computer+Engineering+Student;Finalist+at+4%2B+Hackathons;Winner+%E2%80%94+Best+UI%2FUX+Hackathon;Winner+%E2%80%94+State-Level+Project+Competition;Attended+13%2B+Hackathons;Built+a+Trading+Bot+with+~50%25+Signal+Accuracy"
+alt="Typing SVG"
+/>
 
 ## 👋 About Me
 
@@ -103,83 +109,6 @@ DSA                  █████████████░░░░░░�
 
 ---
 
-# 🚀 Featured Projects
-
-### 🟢 ORBIT — AI-Powered Trading Intelligence Platform
-
-A multi-agent financial intelligence platform combining market analysis, trading strategies, portfolio management, backtesting and automated decision support.
-
-**Highlights:** Multi-Agent AI • Trading Strategies • Market Analysis • Backtesting • Portfolio Management • Real-Time Updates • Risk Engine
-
-**Stack:** Go • Python • FastAPI • React/TypeScript • PostgreSQL • Redis/Valkey • AI/LLMs
-
----
-
-### 🔴 KRITAGAS — AI-Powered Criminal Network Analysis
-
-An AI-driven system for transforming unstructured investigation data into structured entities, relationships and criminal-network intelligence.
-
-```text
-Multi-Source Data
-       ↓
-OCR / NLP
-       ↓
-Entity Extraction
-       ↓
-Identity Resolution
-       ↓
-Relationship Extraction
-       ↓
-Network Graph
-       ↓
-Graph Analytics
-```
-
-**Stack:** Python • AI/ML • NLP • OCR • Graph Analytics • Neo4j • FastAPI
-
----
-
-### 📈 QuantEdgeAI — AI-Powered Stock Research Platform
-
-A financial research platform combining quantitative market data, financial analysis and news intelligence.
-
-**Stack:** FastAPI • Python • PostgreSQL • SQLAlchemy • yfinance • News APIs • Power BI
-
----
-
-### 🌍 Bharatdarshan — Tourism Intelligence Platform
-
-A full-stack tourism platform focused on destinations, travel information and location-based experiences.
-
-**Stack:** Next.js • React • Tailwind CSS • FastAPI • PostgreSQL
-
----
-
-### 🤖 SecularAI / GitaRAG
-
-A RAG-based conversational system exploring semantic retrieval, embeddings and LLM-powered responses across multiple knowledge sources.
-
-**Stack:** Python • LangChain • LLMs • Embeddings • FAISS / Vector Databases
-
----
-
-# 🏆 Hackathons & Building
-
-### 🏆 Smart India Hackathon
-
-Problem-driven engineering projects involving AI, optimization, automation and real-world systems.
-
-### 🚀 MochaTrade YC P26
-
-Built **ORBIT**, an AI-powered trading intelligence platform combining multiple trading strategies, AI agents, market analysis, backtesting and portfolio functionality.
-
-### ⚡ My Building Workflow
-
-```text
-IDEA → RESEARCH → ARCHITECTURE → BUILD → TEST → SHIP
-```
-
----
 
 # 📊 GitHub Statistics
 
@@ -199,17 +128,7 @@ IDEA → RESEARCH → ARCHITECTURE → BUILD → TEST → SHIP
 
 </div>
 
----
 
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ParthYendhe0679&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=4" />
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
@@ -223,57 +142,7 @@ IDEA → RESEARCH → ARCHITECTURE → BUILD → TEST → SHIP
 
 ---
 
-# 💻 Coding & Problem Solving
 
-I’m continuously improving my problem-solving skills through **DSA, competitive programming and algorithmic thinking**.
-
-### Focus Areas
-
-- Data Structures & Algorithms
-- Java & C++ Problem Solving
-- Dynamic Programming
-- Graph Algorithms
-- Greedy Algorithms
-- Backtracking
-- String Algorithms
-- System Design
-
-<div align="center">
-
-> **Every problem solved is another step toward becoming a better engineer.**
-
-</div>
-
----
-
-# 🎯 What I'm Learning
-
-```text
-01  Advanced DSA & Problem Solving
-02  Backend Engineering with Go
-03  System Design & Scalable Architecture
-04  AI Agents & RAG Systems
-05  Quantitative Finance & Algorithmic Trading
-06  Production-grade AI Applications
-```
-
----
-
-# 💡 Developer Philosophy
-
-<div align="center">
-
-### Learn • Build • Improve • Repeat
-
-**Ideas become valuable when you build them.**
-
-**Code becomes powerful when you understand it.**
-
-**Projects become meaningful when they solve real problems.**
-
-</div>
-
----
 
 # 🤝 Let's Connect
 
@@ -289,13 +158,23 @@ I’m continuously improving my problem-solving skills through **DSA, competitiv
 </a>
 
 </div>
-
----
-
 <div align="center">
 
-## 🚀 Thanks for Visiting!
+### 💻 Building ideas into reality, one project at a time.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=120&section=footer&text=Build%20Something%20Worth%20Remembering&fontColor=ffffff&fontSize=22&fontAlignY=65"/>
+<br>
+
+**Thanks for visiting my GitHub profile! 🚀**
+
+<br><br>
+
+<img src="./assets/footer.png" alt="Thanks for Visiting" width="100%"/>
+
+<br><br>
+
+<img
+src="https://komarev.com/ghpvc/?username=ParthYendhe0679&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS"
+/>
 
 </div>
+
