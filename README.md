@@ -16,11 +16,14 @@
 
 <h1>Hi, I'm Parth Yendhe 👋</h1>
 
+<div align="center">
+
 <img
-src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=900&height=55&lines=Backend+Developer+%7C+AI%2FML+Enthusiast;Full-Stack+Developer+%7C+Computer+Engineering+Student;Finalist+at+5%2B+Hackathons;2x+Hackathon+Winner;Winner+%E2%80%94+Best+UI%2FUX+Hackathon;Winner+%E2%80%94+State-Level+Project+Competition;Attended+13%2B+Hackathons;Built+a+Trading+Bot+with+~50%25+Signal+Accuracy](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=900&height=55&lines=Backend+Developer+%7C+AI%2FML+Enthusiast;Full-Stack+Developer+%7C+Computer+Engineering+Student;Finalist+at+5%2B+Hackathons;2x+Hackathon+Winner;Winner+%E2%80%94+Best+UI%2FUX+Hackathon;Winner+%E2%80%94+State-Level+Project+Competition;Attended+13%2B+Hackathons;Built+a+Trading+Bot+with+~50%25+Signal+Accuracy)"
-alt="Typing SVG"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=900&height=55&lines=Backend+Developer+%7C+AI%2FML+Enthusiast;Full-Stack+Developer+%7C+Computer+Engineering+Student;Finalist+at+5%2B+Hackathons;2x+Hackathon+Winner;Winner+%E2%80%94+Best+UI%2FUX+Hackathon;Winner+%E2%80%94+State-Level+Project+Competition;Attended+13%2B+Hackathons;Built+a+Trading+Bot+with+~50%25+Signal+Accuracy"
+  alt="Typing SVG"
 />
 
+</div>
 ## 👋 About Me
 
 ```text
